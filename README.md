@@ -11,3 +11,4 @@ This weekly challenge is on a password generator. This helps me in using the fun
 ## links
 
 https://github.com/ryonerd79/Weekly-Challenge-3-Project
+https://ryonerd79.github.io/Weekly-Challenge-3-Project
