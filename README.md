@@ -6,7 +6,7 @@ This weekly challenge is on a password generator. This helps me in using the fun
 
 ## Screenshot
 
-![screenshot](.Assets/Screenshot (24).png)
+![screenshot](images/Screenshot(24).png)
 
 ## links
 
